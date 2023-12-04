@@ -1,7 +1,7 @@
 # AI-Learning-to-Retrieve-and-Generate-Educational-Videos-with-Equitable-Ambient-Cues
 The goal of the project is to develop artificial intelligence technology to retrieve and classify videos based on content and environmental cues in the context of STEM education in primary schools.
 # The Task
-My task was to use AI to retrieve and classify videos according to their content and environmental clues, and AI-generated the desired task image for teaching. First, environmental cues are a person's perception of cues related to their identity. Our aim is to teach equity, which is divided into race, gender, and age. The STEM research direction is science and technology, engineering, mathematics, and so on. I first need to crawl relevant videos from the website, then classify them into three categories.  By using some deep learning knowledge, I try to get video analysis code for face detection, classification, and video annotations. Following, I will mainly elaborate on my learning process through a literature review, approach, result, and future work.
+My task was to use AI to retrieve and classify videos according to their content and environmental clues, and AI generated the desired task image for teaching.   First, environmental cues are a person's perception of cues related to their identity. Our aim is to teach equity, which is divided into race, gender, and age.   The STEM research direction is science and technology, engineering, mathematics, and so on. I first need to crawl relevant videos from the website, then classify them into three categories. By using some deep learning knowledge, I try to get video analysis code for face detection, classification, and video annotations.  
 
 # Code Description
 # common.py
